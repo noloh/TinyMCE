@@ -1,0 +1,1 @@
+_N.TinyMCEBridge=function(a){_NSet(a.id,"value",a.getContent())};
